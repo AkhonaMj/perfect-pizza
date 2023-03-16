@@ -1,5 +1,5 @@
 body {
-    background-color:#FFBE0B;
+    background-color:#BC4B51;
 
 }
 .pizza {
@@ -13,29 +13,28 @@ body {
 }
 
 .large_pizza {
-    background-color:#3A86FF;
+    background-color:#5B8E7D;
 
     
 }
 
 .medium_pizza {
-    background-color:#8338EC;
+    background-color:#F4A259;
     
 }
 
 .small_pizza {
-    background-color:#FF006E;
+    background-color:#F4E285;
    
 }
 
 .contact {
-    background-color:#FB5607;
-    
+    background-color:#8CB369
 
 }
 
     
-@media (min-width:960px) {
+@media (min-width:980px) {
     .pizzas {
         display:flex;
     }
